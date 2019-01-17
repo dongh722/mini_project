@@ -1,6 +1,9 @@
 # mini_project
 Student's Mini Project Repo
 
+# Slack Push Test
+Let's work!
+
 ## Contribution Summary
 
 - [Students](#Students)
