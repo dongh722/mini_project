@@ -2,7 +2,7 @@
 <link_info>
    <banner>TI ARM Linker Unix v18.1.3.LTS</banner>
    <copyright>Copyright (c) 1996-2017 Texas Instruments Incorporated</copyright>
-   <link_time>0x5c4159d5</link_time>
+   <link_time>0x5c415c73</link_time>
    <link_errors>0x1</link_errors>
    <output_file>git_test.out</output_file>
    <entry_point>
