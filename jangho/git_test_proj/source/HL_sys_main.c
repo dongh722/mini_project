@@ -70,7 +70,7 @@ int main(void)
     gioInit();
     gioSetBit(gioPORTA, 4, 1);
 /* USER CODE END */
-
+//
     return 0;
 }
 
