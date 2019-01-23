@@ -1,2 +1,2 @@
-This folder is for code.
-Just open instead of plugging.
+This folder is for coding.
+Just open instead of plug in on any wall outlet.
