@@ -2,7 +2,6 @@
 
 int main(void)
 {
-	
-	printf("이름 : 홍기화\n");
+    printf("이름");
 	return 0;
 }
